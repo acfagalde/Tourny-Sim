@@ -7,3 +7,5 @@ The information for matchup winrates is stored in the file Talishar Meta Data.xl
 The information after running the program will be exported to Calculator Export.xlsx This file will give you all players within the top 64, ranked including tiebreakers. It will also include a count of which hereoes are included in that top 64 and how many.
 
 The zip file contains all necessary files and an executeable version of the python script for ease of use.
+
+All files are currently contained within the second branch with an open pull request. 
